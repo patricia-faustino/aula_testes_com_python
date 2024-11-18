@@ -20,7 +20,7 @@ Este é um projeto simples de calculadora com operações básicas e testes unit
 1. Clone o repositório para o seu ambiente local:
 
     ```sh
-    git clone <URL_DO_REPOSITORIO>
+    git clone <https://github.com/patricia-faustino/aula_testes_com_python/>
     cd meu_projeto
     ```
 
