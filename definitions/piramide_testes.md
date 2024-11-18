@@ -1,7 +1,7 @@
 # Pirâmide de Testes
 A pirâmide de testes é um conceito que sugere uma proporção ideal de diferentes tipos de testes para garantir a qualidade do software de maneira eficiente.
 
-![Testes Sistema](/assets/piramide_testes.avif)
+<img src="/assets/piramide_testes.png" width="500" />
 
 ###  Testes Unitários:
 

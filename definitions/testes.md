@@ -1,6 +1,6 @@
 # TESTES
-![Testes](/assets/introduction_image.webp)
 
+<img src="/assets/introduction_image.webp" width="700"/>
 
 Testes são processos da construção de software que tem como objetivo assegurar que o software funciona de acordo com o esperado. São responsáveis por indetificar bugs, garantir a qualidade do código e garantir que novas construções não alterem o comportamento de funcionalidades existentes.
 
@@ -8,7 +8,8 @@ Testes são processos da construção de software que tem como objetivo assegura
 ## Tipos de Testes
 
 ### Testes Unitários:
-![Testes Unitarios](/assets/analogia_teste_unitario.webp)
+
+<img src="/assets/analogia_teste_unitario.webp" width="500"/>
 
 - Verificam a menor parte de código (funções, métodos, validações).
 - São rápidos e isolados.
@@ -18,7 +19,7 @@ Testes são processos da construção de software que tem como objetivo assegura
 
 
 ### Testes de Integração:
-![Testes Unitarios](/assets/analogia_teste_integracao.webp)
+<img src="/assets/analogia_teste_integracao.webp" width="500"/>
 
 - Verificam a interação entre diferentes componentes de um sistema.
 - Garantem o funcionamento dos componentes em conjunto.
@@ -27,16 +28,16 @@ Testes são processos da construção de software que tem como objetivo assegura
 - Exemplo Prático: Testar a comunicação entre um módulo de login e um banco de dados.
 
 ### Testes de Sistema:
-![Testes Sistema](/assets/analogia_teste_sistema.jpeg)
+<img src="/assets/analogia_teste_sistema.jpeg" width="500"/>
 
 - Verificam o sistema como um todo.
 - Testam a aplicação completa em um ambiente que simula o ambiente de produção.
 - Analogia: Assar o bolo e verificar se ele cresceu bem, se está dourado e se o sabor está bom.
 - Objetivo: Garantir que o bolo por completo está perfeito.
-- Exemplo: Testar um fluxo completo de compra em um e-commerce.
+- Exemplo Prático: Testar um fluxo completo de compra em um e-commerce.
 
 ### Testes de Aceitação:
-![Testes Aceitação](/assets/analogia_teste_aceitacao.jpeg)
+<img src="/assets/analogia_teste_aceitacao.jpeg" width="500"/>
 
 - Verificam se o sistema atende aos requisitos estabelecidos pelo usuário.
 - São geralmente realizados pelo cliente(PO) ou por um time de QA.
