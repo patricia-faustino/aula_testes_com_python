@@ -21,7 +21,7 @@ Este é um projeto simples de calculadora com operações básicas e testes unit
 
     ```sh
     git clone <https://github.com/patricia-faustino/aula_testes_com_python/>
-    cd meu_projeto
+    cd aula_testes_com_python
     ```
 
 2. Instale as dependências listadas no `requirements.txt`:
