@@ -1,4 +1,4 @@
-# Meu Projeto de Calculadora
+# Explicação Prática de Testes com Python
 
 Este é um projeto simples de calculadora com operações básicas e testes unitários utilizando `pytest`.
 
@@ -20,8 +20,8 @@ Este é um projeto simples de calculadora com operações básicas e testes unit
 1. Clone o repositório para o seu ambiente local:
 
     ```sh
-    git clone <URL_DO_REPOSITORIO>
-    cd meu_projeto
+    git clone <https://github.com/patricia-faustino/aula_testes_com_python/>
+    cd aula_testes_com_python
     ```
 
 2. Instale as dependências listadas no `requirements.txt`:
