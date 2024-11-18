@@ -1,4 +1,4 @@
-# Meu Projeto de Calculadora
+# Explicação Prática de Testes com Python
 
 Este é um projeto simples de calculadora com operações básicas e testes unitários utilizando `pytest`.
 
